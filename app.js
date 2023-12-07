@@ -4,3 +4,4 @@ var staticObject = {
 };
 console.dir(typeof(staticObject)); // 'object
 console.log(staticObject.name); // static object
+console.log(staticObject.explain); // 미리, 혹은 이미 작성된 객체
