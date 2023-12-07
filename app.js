@@ -10,3 +10,4 @@ var dynamicObject = {};
 dynamicObject.name = "dynamic object";
 dynamicObject.explain = "동적으로 생성된 객체";
 console.dir(typeof(dynamicObject)) // 'object'
+console.log(dynamicObject.name); // dynamic object
